@@ -177,7 +177,7 @@ For a detailed video walkthrough of all operations being performed in Postman, p
 
 - **Reset Password:**
 
-  ![Reset Password](https://firebasestorage.googleapis.com/v0/b/userauthentication-af0ad.appspot.com/o/Reaset_password_request.png?alt=media&token=e8924424-4bc1-48a0-9432-676caf7ba409)
+  ![Reset Password](https://firebasestorage.googleapis.com/v0/b/userauthentication-af0ad.appspot.com/o/Screenshot%20from%202024-12-05%2007-49-31.png?alt=media&token=63d960df-6d6e-44b9-ae04-ed6e25793b5a)
 
 ## License
 
