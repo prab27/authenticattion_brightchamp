@@ -159,21 +159,21 @@ This is a user authentication system built with Node.js, Express, and MongoDB. I
 
 For a detailed video walkthrough of all operations being performed in Postman, please refer to the following link:
 
-[![Watch the video](./screenshots/video_thumbnail.png)](https://www.youtube.com/watch?v=vC6HGOGtntM)
+[![Watch the video](./screenshots/video_thumbnail.png)](https://www.youtube.com/watch?v=Bnxc21BZF7g)
 
 ## Screenshots
 
 - **Registration:**
 
-  ![Registration](https://firebasestorage.googleapis.com/v0/b/userauthentication-af0ad.appspot.com/o/register_page.png?alt=media&token=5b12b573-0d0e-4fa2-bc69-a1e8b88d5e32)
+  ![Registration](https://firebasestorage.googleapis.com/v0/b/userauthentication-af0ad.appspot.com/o/Screenshot%20from%202024-12-05%2007-42-08.png?alt=media&token=d88cadbc-08ee-4f94-abf0-73a94f631bff)
 
 - **Login:**
 
-  ![Login](https://firebasestorage.googleapis.com/v0/b/userauthentication-af0ad.appspot.com/o/login_page.png?alt=media&token=7be5da97-ca46-4b76-b76e-bdc7a17b0e0e)
+  ![Login](https://firebasestorage.googleapis.com/v0/b/userauthentication-af0ad.appspot.com/o/Screenshot%20from%202024-12-05%2007-45-02.png?alt=media&token=72abb3d4-8df7-4a33-a137-50849f7602ba)
 
 - **Request Password Reset:**
 
-  ![Request Password Reset](https://firebasestorage.googleapis.com/v0/b/userauthentication-af0ad.appspot.com/o/password_reset.png?alt=media&token=614e37d1-2078-411f-ade0-99c444164407)
+  ![Request Password Reset](https://firebasestorage.googleapis.com/v0/b/userauthentication-af0ad.appspot.com/o/Screenshot%20from%202024-12-05%2007-47-09.png?alt=media&token=3e8288e3-408f-4d2e-8c00-156bbdd72632)
 
 - **Reset Password:**
 
